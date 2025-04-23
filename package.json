@@ -1,0 +1,17 @@
+{
+  "name": "projeto3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "tsc && node dist/src/index.js",
+    "build": "tsc",
+    "start": "node dist/src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
